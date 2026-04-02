@@ -5,6 +5,11 @@ Projeto desenvolvido com HTML5 e CSS3, inspirado no poema Cordel Moderno, de Mil
 A proposta do site é unir literatura e tecnologia, apresentando o cordel em um formato visual moderno, com uso de imagens de fundo, tipografia estilizada e efeito parallax.
 
 ### 🎥 Demonstração
+
+https://github.com/user-attachments/assets/811d15a8-236b-46a8-8329-f98902fba4b5
+
+
+
 🔗 Acesse o projeto
 
 👉 https://giuliacaxtro.github.io/projeto_cordel/
