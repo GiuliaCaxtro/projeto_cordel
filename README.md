@@ -6,7 +6,10 @@ A proposta do site é unir literatura e tecnologia, apresentando o cordel em um 
 
 ### 🎥 Demonstração
 
-https://github.com/user-attachments/assets/811d15a8-236b-46a8-8329-f98902fba4b5
+
+
+https://github.com/user-attachments/assets/6f2f5dd6-5b36-45ac-848f-f17c76493c4f
+
 
 
 
