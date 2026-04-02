@@ -7,7 +7,7 @@ A proposta do site é unir literatura e tecnologia, apresentando o cordel em um 
 ### 🎥 Demonstração
 🔗 Acesse o projeto
 
-👉 https://seu-link-aqui.com
+👉 https://giuliacaxtro.github.io/projeto_cordel/
 
 ---
 
